@@ -1,4 +1,3 @@
 # Auto detect text files and perform LF normalization
-* text=auto
 *.js inguist-detectable=false
 *.html inguist-detectable=false
