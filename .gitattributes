@@ -1,3 +1,3 @@
 # Auto detect text files and perform LF normalization
-*.js inguist-detectable=false
-*.html inguist-detectable=false
+*.js linguist-detectable=false
+*.html linguist-detectable=false
